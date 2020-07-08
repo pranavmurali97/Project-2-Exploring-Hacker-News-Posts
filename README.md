@@ -1,4 +1,4 @@
-# Project-2-Exploring-Hacker-News-Posts
+# Project-Exploring-Hacker-News-Posts
 
 We are going to analyze what is the feedback for two types of HN posts (Ask and show). And see which one is more popular (we are going to take comments average as our metric). You can find the dataset here:https://www.kaggle.com/hacker-news/hacker-news-posts)
 
